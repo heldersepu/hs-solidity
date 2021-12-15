@@ -1,1 +1,1 @@
-# hs-solidity
+# solidity experiments
